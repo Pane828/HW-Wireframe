@@ -73,9 +73,9 @@ footer {
   background-color: #808080;
   color: #F8F8FF;
   margin: auto;
-  position: absolute;
-  top: 35%;
-  left: 240px;
+  position: relative;
+  top: 30px;
+  right: 10px;
   padding: 10px;
 
 }
@@ -88,9 +88,9 @@ footer {
   width: 276px;
   margin: auto;
   margin-bottom: 10px;
-  position: absolute;
-  top: 30%;
-  left: 10%;
+  position: relative;
+  top: 30px;
+  left: 10px;
 }
 
 .area-p {
@@ -100,7 +100,7 @@ footer {
   text-align: center;
   width: 276px;
   margin: auto;
-  position: absolute;
-  bottom: 10%;
-  left: 10%;
+  position: relative;
+  top: 20%;
+  left: 10px;
 }
